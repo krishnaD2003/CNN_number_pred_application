@@ -1,1 +1,0 @@
-# CNN_number_pred_application
